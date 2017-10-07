@@ -1,0 +1,10 @@
+-selectAllStudents()
+    - map many-to-many values of student's courses to student model
+    - change view to render student's courses
+
+- select and view course detail
+    - create service, model and it's DB mapper under "new" course domain
+    - create new controller for course domain
+    - create view to render course detail
+
+^^seems quite enough.
